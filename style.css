@@ -52,10 +52,10 @@ img {
   gap: 10px;
 }
 
-.qr-info h2 {
+.qr-info h1 {
   color: hsl(218, 44%, 22%);
   font-weight: 900;
-  font-size: 19.5px;
+  font-size: 19px;
 }
 
 .qr-info p {
